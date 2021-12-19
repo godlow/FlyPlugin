@@ -1,0 +1,18 @@
+# Valkyrie development - Made by lowgod
+# Discord: https://discord.gg/PAJnGCE4Kn - lowgod#9999
+
+########################################
+
+# permissions
+fly-permission: 'lowgod.fly'
+fly-give-permission: 'lowgod.give.fly'
+
+# Messages
+not-permission-message: '&cYou dont have permission to use that.'
+
+fly-enabled-message: '&aFly Enabled'
+fly-disabled-message: '&cFly Disabled'
+
+fly-enabled-by-message: '&aFly enabled by'
+fly-disabled-by-message: '&cFly disabled by'
+

@@ -1,0 +1,10 @@
+name: FlyPlugin
+version: '${project.version}'
+main: me.lowgod.main.Main
+api-version: 1.18
+authors: [ lowgod ]
+description: A simple fly plugin
+commands:
+  fly:
+    description: Fly enable/disable command
+    usage: /<command>
