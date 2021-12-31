@@ -1,2 +1,8 @@
-# FlyPlugin
-This is my first Minecraft spigot plugin is a fly plugin fully customizable, you can change all in the config
+# FlyPlugin - V1.0.0
+
+### what's this !??
+>* This is my first Java project, is a simple /fly plugin.
+
+###Features:
+* Console and other players can give fly to a especific player.
+* Fully customizable.
